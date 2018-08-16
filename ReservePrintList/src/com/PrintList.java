@@ -5,6 +5,9 @@ import java.util.Stack;
 
 /*输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。*/
 
+/*思路
+	从尾到头遍历链表，首先想到的是堆栈，先入后出，将链表节点的值放入堆栈，再pop出去放在ArrayList中*/
+
 public class PrintList {
 	public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         Stack<Integer> st=new Stack<Integer>();
