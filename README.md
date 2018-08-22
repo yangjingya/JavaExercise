@@ -20,7 +20,4 @@
 15.[反转链表](https://github.com/yangjingya/JavaExercise/blob/master/ReaserveList/src/com/Reserve.java)</br>
 16.[合并两个排序的链表](https://github.com/yangjingya/JavaExercise/blob/master/MergeTwoList/src/com/Merge.java)</br>
 17.[树的子结构](https://github.com/yangjingya/JavaExercise/blob/master/SonOfOthers/src/com/Son.java)</br>
-18.[二叉树的镜像](https://github.com/yangjingya/JavaExercise/blob/master/MirrorOfBinary/src/com/MirrorOfBinary.java)<br/>
-19.[顺时针打印矩阵](https://github.com/yangjingya/JavaExercise/blob/master/PrintMatrix/src/com/Matrix.java)<br/>
-20.[包含min函数的栈](https://github.com/yangjingya/JavaExercise/blob/master/DefineStack/src/com/Define.java)<br/>
-21.[栈的压入、弹出序列](https://github.com/yangjingya/JavaExercise/blob/master/StackPushOrPop/src/com/StackPush.java)<br/>
+18.[二叉树的镜像](https://github.com/yangjingya/JavaExercise/blob/master/MirrorOfBinary/src/com/MirrorOfBinary.java)<br/> 19.[顺时针打印矩阵](https://github.com/yangjingya/JavaExercise/blob/master/PrintMatrix/src/com/Matrix.java)<br/> 20.[包含min函数的栈](https://github.com/yangjingya/JavaExercise/blob/master/DefineStack/src/com/Define.java)<br/> 21.[栈的压入、弹出序列](https://github.com/yangjingya/JavaExercise/blob/master/StackPushOrPop/src/com/StackPush.java)<br/> 22.[从上往下打印二叉树](https://github.com/yangjingya/JavaExercise/blob/master/PrintTreeFromTopToBottom/src/com/Tree.java)<br/> 23.[二叉搜索树的后序遍历序列](https://github.com/yangjingya/JavaExercise/blob/master/LastPrintBinary/src/com/Tree.java)<br/> 24.[二叉树中和为某一值的路径](https://github.com/yangjingya/JavaExercise/blob/master/RootInBinary/src/com/Tree.java)<br/>
